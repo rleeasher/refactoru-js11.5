@@ -82,6 +82,11 @@
 	clear: both;
 }
 
+.radio-text ul li{
+	display: inline;
+}
+
+
 .radio-text {
 	color: white;
 	padding:2px 60px;
